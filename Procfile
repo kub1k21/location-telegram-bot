@@ -1,1 +1,1 @@
-web: python botek.pyh
+web: python botek.py
